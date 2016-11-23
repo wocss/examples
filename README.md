@@ -6,8 +6,8 @@ Files whose name contain the word `example` are demo files that you are encourag
 
 ```sh
 # install with npm
-$ npm i -S wocss-settings-breakpoints wocss-settings-typography wocss-settings-global wocss-tools-bem-constructor wocss-tools-mq wocss-generic-sanitize
+$ npm i -S wocss-settings-breakpoints wocss-settings-colors wocss-settings-typography wocss-settings-global wocss-tools-bem-constructor wocss-tools-mq wocss-generic-sanitize
 
 # install with yarn
-$ yarn add wocss-settings-breakpoints wocss-settings-typography wocss-settings-global wocss-tools-bem-constructor wocss-tools-mq wocss-generic-sanitize
+$ yarn add wocss-settings-breakpoints wocss-settings-colors wocss-settings-typography wocss-settings-global wocss-tools-bem-constructor wocss-tools-mq wocss-generic-sanitize
 ```
